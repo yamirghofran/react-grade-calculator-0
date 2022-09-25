@@ -1,0 +1,35 @@
+
+.final-form {
+    display: flex;
+    min-width: 330px;
+    margin: 50px;
+    justify-content: center;
+    align-content: center;
+    background-color: #F9FAF0;
+    border-radius: 15px;
+    width: 30%;
+    height: 400px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.form-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.form-content input {
+    margin-left: 100px;
+    margin-right: 10px;
+    width: 40px;
+    height: 30px;
+    border: #7067CF solid 2px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: #7067CF;
+}
+
+.form-content label {
+    color: #7067CF;
+    font-size: 22px;
+}

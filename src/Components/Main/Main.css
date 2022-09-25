@@ -1,0 +1,9 @@
+.main-part {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
